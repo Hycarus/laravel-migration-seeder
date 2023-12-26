@@ -21,8 +21,6 @@ Ogni treno dovrà avere:
 Create il Model Train e
 Aggiungete un seeder per la classe Train usando FakerPHP.
 
-Create relativo ed un Controller per mostrare nella home page tutti i treni che sono in partenza dalla data odierna.
-
 ## Bonus:
 
-Create relativo Controller e rotta per mostrare tutti i treni che sono in partenza dalla data odierna.
+Creare un relativo Controller per mostrare nella home page tutti i treni che sono in partenza dalla data odierna.
