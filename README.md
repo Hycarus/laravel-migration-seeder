@@ -1,4 +1,4 @@
-nome repo: laravel-migration-seeder
+### Nome repo: laravel-migration-seeder
 
 Creaiamo un database da phpmyadmin (es. train_db)
 
@@ -16,9 +16,13 @@ Ogni treno dovrà avere:
 -   In orario
 -   Cancellato
 
-È probabile che siano necessarie altre colonne per far funzionare la tabella nel modo corretto :occhiolino:
+È probabile che siano necessarie altre colonne per far funzionare la tabella nel modo corretto
+
 Create il Model Train e
 Aggiungete un seeder per la classe Train usando FakerPHP.
+
 Create relativo ed un Controller per mostrare nella home page tutti i treni che sono in partenza dalla data odierna.
-Bonus:
+
+## Bonus:
+
 Create relativo Controller e rotta per mostrare tutti i treni che sono in partenza dalla data odierna.
